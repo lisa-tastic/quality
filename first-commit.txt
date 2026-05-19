@@ -1,0 +1,2 @@
+# My First Commit with Kiro
+This is my first commit using Kiro with GitHub integration.
